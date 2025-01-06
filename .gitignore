@@ -11,3 +11,5 @@ drafts/*
 *.txt
 !plans.txt
 
+my-password.txt
+
